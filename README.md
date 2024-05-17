@@ -3,9 +3,9 @@ Project Report for Stroke Prediction Using PCA Health Profile Segmentation and L
 Project Files:
 - Read me: Project documentation
 - Project report: Detailed scientific article, rationale, methodology, results, discussion
-- Part 1 .py: Pre-processing, subset analysis and clustering
-- Part 2 .py: Logistic Regression on subset
-- Subset .csv: Contains pre-processed variables for part 2 logistic regression
+- Code Part 1 .py: Pre-processing, subset analysis and clustering
+- Code Part 2 .py: Logistic Regression on subset
+- Stroke Subset .csv: Contains pre-processed variables for part 2 logistic regression
 
 This project focuses on machine learning techniques for stroke prediction using 1) cluster degmentation health profile analysis, 2) logistic regression for prediction stroke incidence, based on cluster profiles. 
 
